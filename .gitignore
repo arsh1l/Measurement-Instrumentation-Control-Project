@@ -1,0 +1,13 @@
+# LabVIEW generated files and local state
+*.aliases
+*.lvlps
+*.lvlibp
+*.log
+*.tmp
+*.bak
+*~
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini

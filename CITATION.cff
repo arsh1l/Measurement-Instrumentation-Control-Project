@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using this metadata."
+title: "Temperature, Humidity, and Smoke Control System"
+type: software
+date-released: 2022-03-22
+authors:
+  - given-names: Tahamid
+    family-names: Arshil
+  - given-names: Jabir
+    family-names: Ahmed
+  - given-names: Tarif
+    family-names: Shahriar
+  - given-names: Syeda Tahiya
+    family-names: Hassan
+  - given-names: Moho
+    family-names: Hassan
+keywords:
+  - LabVIEW
+  - Arduino
+  - mechatronics
+  - environmental-control
+  - sensor-fusion
+  - servo-control

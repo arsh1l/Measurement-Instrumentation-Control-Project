@@ -1,0 +1,5 @@
+*.vi binary
+*.pdf binary
+*.png binary
+*.jpg binary
+* text=auto
